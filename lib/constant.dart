@@ -1,0 +1,1 @@
+const String FAQ_URL = 'https://jsonplaceholder.typicode.com/users';
